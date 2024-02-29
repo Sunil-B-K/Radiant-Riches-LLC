@@ -152,3 +152,8 @@
   text-align: left;
   color: #4b5665;
 }
+@media screen and (max-width: 480px) {
+  .product4 {
+    width: 300px;
+  }
+}
