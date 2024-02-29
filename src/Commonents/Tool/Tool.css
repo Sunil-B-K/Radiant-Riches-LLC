@@ -1,0 +1,6 @@
+.tool {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 0 200px;
+  margin: 13px 0;
+}

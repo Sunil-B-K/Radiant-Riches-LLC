@@ -1,0 +1,16 @@
+.tools {
+  border-radius: 12px;
+  background-color: #ffff;
+  color: #4b5665;
+  display: flex;
+  height: 36px;
+  align-items: center;
+  justify-content: center;
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  /* text-align: left; */
+  padding: 5px;
+}

@@ -1,0 +1,48 @@
+.footer {
+  background-color: #212731;
+
+  height: 425px;
+}
+.footer1 {
+  padding: 0 200px;
+  display: flex;
+  padding-top: 50px;
+  align-items: center;
+  justify-content: space-between;
+}
+.Categories > h1 {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #fff;
+}
+.Categories {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.Categories > p {
+  font-family: Inter;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #b6bdc4;
+}
+.f-button {
+  align-items: center;
+  display: flex;
+
+  gap: 5px;
+  font-family: Inter;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #d1d6da;
+}
