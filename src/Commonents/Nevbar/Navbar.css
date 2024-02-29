@@ -31,3 +31,9 @@
   display: flex;
   padding: 0 5px;
 }
+@media screen and (max-width: 480px) {
+  .navbar {
+    padding: 0 10px;
+    gap: 8px;
+  }
+}

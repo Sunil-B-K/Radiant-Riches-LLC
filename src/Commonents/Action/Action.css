@@ -43,3 +43,18 @@
   border: none;
   outline: none;
 }
+@media screen and (max-width: 480px) {
+  .action {
+    padding: 10px;
+  }
+  .a-input > input {
+    width: 140px;
+  }
+  .a-input {
+    display: flex;
+  }
+  .action > p {
+    font-size: 20px;
+    line-height: 30px;
+  }
+}

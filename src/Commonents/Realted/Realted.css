@@ -16,3 +16,13 @@
   display: flex;
   gap: 20px;
 }
+@media screen and (max-width: 480px) {
+  .realted {
+    padding: 10px;
+  }
+  .realtedproducts {
+    flex-direction: column;
+    width: 333px;
+    padding-left: 50px;
+  }
+}

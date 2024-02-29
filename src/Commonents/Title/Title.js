@@ -20,8 +20,8 @@ function Title() {
           </div>
         </div>
         <div className="update">
-          <img src={imge2} />
           <p>Top Relevant</p>
+          <img src={imge2} />
         </div>
       </div>
       <hr />

@@ -8,7 +8,7 @@
   color: #2c384a;
   margin: 20px auto;
   padding: 0 200px;
-
+  display: flex;
   background-color: #fff;
 }
 .title > hr {
@@ -39,4 +39,16 @@
   justify-content: space-between;
   padding: 0 200px;
   align-items: center;
+}
+@media screen and (max-width: 480px) {
+  .title > p {
+    font-size: 30px;
+    line-height: 30px;
+    margin: 0;
+    padding: 10px;
+    /* display: flex; */
+  }
+  .points {
+    padding: 10px;
+  }
 }
